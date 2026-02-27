@@ -7,11 +7,11 @@
     - Post
     - PostList
 
-* How to run project
-    - Open in VsCode and type in terminal
-        `cd exercise1`
-        `npm i`
-        `npm run dev`
+## How to run project
+- Open in VsCode and type in terminal
+    1. `cd exercise1`
+    2. `npm i`
+    3. `npm run dev`
 * Resize the screen to see the responsive layout.
 ## 🚀 Demo  
 Live demo: https://duong247.github.io/frontend-assessment-exercise1/
