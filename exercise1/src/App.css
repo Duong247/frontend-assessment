@@ -2,7 +2,7 @@
   margin: 0 auto;
   text-align: center;
 }
-
+/* Banner */
 .banner{
   width: 100%;
   height: 650px;
@@ -75,14 +75,12 @@
   padding: 0 14px;
 }
 
+/* responsive on mobile screen */
 @media only screen and (max-width: 600px) {
   .banner {
     height: 600px;
-  }
-}
-
-@media (max-width: 600px) {
-  .banner {
     background: url("./assets/img/600x600.svg") center/cover no-repeat;
   }
 }
+
+
