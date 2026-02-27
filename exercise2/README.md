@@ -1,3 +1,27 @@
+# EXERCISE 2
+
+## INTRODUCTION
+* Build a page to show infomation in both:
+    - 💻 Desktop layout 
+    - 📱 Mobile layout
+* The page must be responsive and adapt to different screen sizes.
+    - 💻 On desktop: Data must be show in tabs
+    - 📱 On mobile: Data must be show in accordion  
+    - Only 1 accordion or tab can be open at a time 
+    - The first accordion or tab is open on load
+    - If the opened accordion is selected again, it will be closed.
+
+* How to run project
+    - open in VsCode and type in terminal
+        `cd exercise2`
+        `npm i`
+        `npm run dev`
+* Resize the screen to see the responsive layout.     
+    - Desktop layout: screen width > 768px (tabs)
+    - Mobile layout: screen width <= 768px (accordion)
+## 🚀 Demo 
+* Link demo exercise 2: https://duong247.github.io/frontend-assessment-exercise2/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
