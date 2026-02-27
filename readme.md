@@ -29,11 +29,11 @@ Live demo: https://duong247.github.io/frontend-assessment-exercise1/
     - The first accordion or tab is open on load
     - If the opened accordion is selected again, it will be closed.
 
-* How to run project
-    - open in VsCode and type in terminal
-        `cd exercise2`
-        `npm i`
-        `npm run dev`
+## How to run project
+* open in VsCode and type in terminal
+      1. `cd exercise2`
+      2. `npm i`
+      3. `npm run dev`
 * Resize the screen to see the responsive layout.     
     - Desktop layout: screen width > 768px (tabs)
     - Mobile layout: screen width <= 768px (accordion)
