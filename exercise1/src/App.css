@@ -1,4 +1,7 @@
 #root {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
   margin: 0 auto;
   text-align: center;
 }
@@ -14,12 +17,12 @@
 .banner-title{
   font-weight: 700;
   padding: 21px;
-  font-size: 71px;
+  font-size: 63px;
 }
 
 .banner-description{
   font-weight: 300;
-  font-size: 40px;
+  font-size: 32px;
 }
 
 /* POST */
@@ -80,6 +83,13 @@
   .banner {
     height: 600px;
     background: url("./assets/img/600x600.svg") center/cover no-repeat;
+  }
+}
+
+
+@media only screen and (max-width: 458px) {
+  .post-img{
+    width: 100%;
   }
 }
 
